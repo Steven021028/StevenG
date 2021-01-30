@@ -10,5 +10,5 @@ package student;
  * @author User
  */
 public class PartTimeStudent {
-    
+    int numOfCourses;
 }
